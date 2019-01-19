@@ -9,10 +9,11 @@
 
 
 ## windows
+
 [局域网共享一键修复.exe](exe/局域网共享一键修复.exe)
-一键修复windows系统局域网不能共享的问题。
+一键修复windows系统局域网不能共享的问题；
 单文件，免安装；亲测支持win7、win10；作者：wnsdt，出处不祥。
 
-[7act.exe](exe/7act.exe)
-***内容已加密***
+[7act.exe](exe/7act.zip)
+\*\*\*内容已加密\*\*\* 
 单文件，免安装；亲测支持win7、win10；出处不祥。
