@@ -11,14 +11,11 @@
 ## windows
 
 [局域网共享一键修复.exe](exe/局域网共享一键修复.exe)
-一键修复windows系统局域网不能共享的问题；
-单文件，免安装；亲测支持win7、win10；作者：wnsdt，出处不祥。
+【域网共享一键修复】一键修复windows系统局域网不能共享的问题；单文件，免安装；亲测支持win7、win10；作者：wnsdt，出处不祥。
 
 [7act.exe](exe/7act.zip)
-\*\*\*内容已加密\*\*\* 
-单文件，免安装；亲测支持win7、win10；出处不祥。
+【\*\*\*内容已加密\*\*\* 】单文件，免安装；亲测支持win7、win10；出处不祥。
 
 ## macOS
 [AndroidFileTransfer.dmg](dmg/AndroidFileTransfer.dmg)
-安卓手机文件传输
-在mac系统传输、拷贝安卓手机文件和相册照片
+【安卓手机文件传输】在mac系统传输、拷贝安卓手机文件和相册照片。
