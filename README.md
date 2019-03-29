@@ -16,6 +16,9 @@
 [7act.exe](exe/7act.zip)
 【\*\*\*内容已加密\*\*\* 】单文件，免安装；亲测支持win7、win10；出处不祥。
 
+[haozipRenameTool.zip](exe/haozipRenameTool.zip)
+【批量重命名工具】批量修改文件名；多文件不到1M，免安装；亲测支持win7、win10；出自2345好压。
+
 ## macOS
 [AndroidFileTransfer.dmg](dmg/AndroidFileTransfer.dmg)
 【安卓手机文件传输】在mac系统传输、拷贝安卓手机文件和相册照片。
